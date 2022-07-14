@@ -1,8 +1,10 @@
-# Race results
-
-Here are the results from this week's race:
-
- | Number | Rider        | Time
- | 1      | Bullet Bob   | 56:07
- | 2      | Clumsy Colin | DNF 
- | 3      | Swift Susan  | 55:13
+<table>
+  <tr>
+    <th>percentages</th>
+  </tr>
+  <tr>
+    <td>50%</td>
+    <td>60%</td>
+    <td>70%</td>
+  </tr>
+</table>
